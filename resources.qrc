@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/qote">
+        <file>TONUSDT-trades-2024-07-01.csv</file>
+    </qresource>
+</RCC>
